@@ -4,7 +4,7 @@ Visualization Manager:
     - Alpha: 0.5
       Cell Size: 1
       Class: rviz/Grid
-      Color: 160; 160; 164
+      Color: 190; 190; 190
       Enabled: true
       Name: Grid
       Normal Cell Count: 0
